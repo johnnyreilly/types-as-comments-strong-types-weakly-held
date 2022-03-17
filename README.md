@@ -1,10 +1,4 @@
----
-title: 'Types as comments: strong types, weakly held'
-authors: johnnyreilly
-tags: [types-as-comments, JSDoc, ECMAScript, types, proposal]
-image: ./title-image.png
-hide_table_of_contents: false
----
+# Types as comments: strong types, weakly held
 
 Recently, a new ECMAScript proposal called ["Types as Comments"](https://github.com/giltayar/proposal-types-as-comments) was revealed. The purpose is to allow type annotations to be valid JavaScript syntax. Albeit syntax that is ignored by JavaScript engines. The proposal is being worked on by Gil Tayar, Daniel Rosenwasser, Romulo Cintra, Rob Palmer, and others. Many of these people are from TypeScript community - however this proposal intentionally does not exist to benefit TypeScript alone.
 
